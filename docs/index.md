@@ -250,7 +250,7 @@ Start-Events können manuell, bspw. durch ein Skript wie in unserem "Hello World
 ![BPMN-Element: End-Event](images/bpmn-element-event-end.png)
 
 Jeder Prozess besitzt mindestens ein End-Event.
-Mit Erreichen eines End-Events ist die Prozessausführung beendet.
+Mit Erreichen eines End-Events ist die Prozessausführung beendet.Es gibt noch viele andere BPMN-Elemente. Einen Gesamtüberblick über die weiteren BPMN-Elemente können Sie [hier](https://github.com/atlas-engine/ContributionGuidelines/tree/develop/docs/getting_started/bpmn_elements) verschaffen.
 
 ### ProcessEngine: Clients in vielen Programmiersprachen und eine standardisierte JSON-API
 
